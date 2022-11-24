@@ -18,7 +18,7 @@ Experiment 1 - Contains the dataset and the jupyter notebooks used for experimen
 Experiment 2 - Contains the dataset and the jupyter notebooks used for experiment 2.
 Experiment 3 - Contains the dataset and the jupyter notebooks used for experiment 3.
 
-Not all files could be included on GitHub due to storage limit, so a complete copy of the repository has also been mirrored on Zenodo.
+Not all files could be included on GitHub due to storage limit, so a complete copy of the repository has also been mirrored on Zenodo: (https://zenodo.org/badge/DOI/10.5281/zenodo.6659435.svg)](https://doi.org/10.5281/zenodo.6659435).
 
 # A note on the dataset:
 The datasets have been organized by each experiment, and this is what each file means:
