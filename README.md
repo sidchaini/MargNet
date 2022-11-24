@@ -20,6 +20,15 @@ Experiment 3 - Contains the dataset and the jupyter notebooks used for experimen
 
 Not all files could be included on GitHub due to storage limit, so a complete copy of the repository has also been mirrored on Zenodo.
 
+# A note on the dataset:
+The datasets have been organized by each experiment, and this is what each file means:
+* objlist.npy - The SDSS ObjID of each object
+* X.npy - the 5-band image for each object (Used by the CNN)
+* dnnx.npy - the set of 24 photometric features for each object (Used by the DNN)
+* y.npy - the classification label for each object
+* photofeatures.csv - SDSS spreadsheet containing all the features from dnnx, labels from y, ObjIDs from objlist and a couple of more SDSS specific parameters.
+
+Note: objlist, X, dnnx and y are in the same order. So, objlist[0], X[0], dnnx[0] and y[0] correspond to the same object.
 
 # Authors
 Siddharth Chaini, Atharva Bagul, Anish Deshpande, Rishi Gondkar, Kaushal Sharma, M Vivek, Ajit Kembhavi
