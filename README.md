@@ -3,9 +3,11 @@ A repository containing our code for our paper, "Photometric identification of c
 
 
 # Paper Links:
-[![Paper DOI](https://img.shields.io/badge/MNRAS-10.1093%2Fmnras%2Fstac3336-blueviolet)](https://doi.org/10.1093/mnras/stac3336) 
+[![Paper DOI](https://img.shields.io/badge/MNRAS-10.1093%2Fmnras%2Fstac3336-blueviolet)](https://doi.org/10.1093/mnras/stac3336)
 [![arXiv](https://img.shields.io/badge/arXiv-astro--ph%2F2211.08388-red)](https://arxiv.org/abs/2211.08388) 
 [![Dataset+Models](https://zenodo.org/badge/DOI/10.5281/zenodo.6659435.svg)](https://doi.org/10.5281/zenodo.6659435)
+
+You can also access the MNRAS version using our [free-access link](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/stac3336/6831636?utm_source=authortollfreelinkguestAccessKey=10ada097-d979-4037-84af-c72d47f5c21b).
 
 
 # Abstract
